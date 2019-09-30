@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P2</string>
+    <string name="boton_iniciar_registro">INICIAR REGISTRO</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Telefono</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="title_activity_register2">Register2Activity</string>
+</resources>
